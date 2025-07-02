@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LX8GzrOmBVbUd/brfYzx2kAfl4KQFdu1eR/kzJnKSOT1a/o0mhUoHnzfo5shSK85Hh9sX+PDX2f4poOPtPDtsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\whysa\\Desktop\\OSU\\Project\\KioskErrorSample\\WebView2Samples\\GettingStartedGuides\\WinForms_GettingStarted\\WinForms_GettingStarted.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whysa\\.nuget\\packages\\microsoft.web.webview2\\1.0.2210.55\\microsoft.web.webview2.1.0.2210.55.nupkg.sha512"
+  ],
+  "logs": []
+}
