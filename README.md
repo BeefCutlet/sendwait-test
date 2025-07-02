@@ -1,15 +1,6 @@
----
-description: "Completed Visual Studio project from the tutorial Get started with WebView2 in WinForms apps."
-languages: 
-  - csharp
-page_type: sample
-products: 
-  - microsoft-edge
-urlFragment: WinForms_GettingStarted
----
-# Get started with WebView2 in WinForms apps
+# SendWait TEST
 
-<!-- only enough info to differentiate this sample vs the others; what is different about this sample compared to the sibling samples? -->
-This sample, **WinForms_GettingStarted**, is the completed Visual Studio project that results from following the steps in the tutorial [Get started with WebView2 in WinForms apps](https://learn.microsoft.com/microsoft-edge/webview2/get-started/winforms).
+webview2에서 System.Windows.Forms.SendKeys.SendWait로 데이터를 전송할 때
+일부 데이터가 중복되어 출력되는 경우가 있는지 확인
 
-![The running app from the finished WinForms tutorial](screenshots/winforms-bing.png)
+angular 사이트를 띄워서 테스트
